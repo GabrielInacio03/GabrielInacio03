@@ -5,5 +5,5 @@
 
 <p>Sou programador web autodidata. Atualmente cursando análise e Desenvolvimento de Sistemas na Fatec de Lins. Viso ser um programador FullStack.</p>
 
-<p>🧠Skiils: HTML5, CSS3, JavaScript e PHP.</p>
-<p>🤯Pretendo aprender: MySqli, Bootstrap, ReactJS e Vue.js</p>
+<p>🧠Skiils: HTML5, CSS3, JavaScript & C.</p>
+<p>🤯Pretendo aprender: ReactJS, Vue & JAVA</p>
