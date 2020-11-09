@@ -6,5 +6,4 @@
 <p>Sou programador web autodidata. Atualmente cursando análise e Desenvolvimento de Sistemas na Fatec de Lins. Viso ser um programador FullStack.</p>
 
 <p>🧠Skiils: HTML5, CSS3, PHP & C.</p>
-<p>🤯Pretendo aprender: PHP OO, Laravel e SQL</p>
 <a href="https://www.linkedin.com/in/gabriel-da-silva-in%C3%A1cio-a3ba881a8/">Linkedin</a>
