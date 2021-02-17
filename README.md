@@ -1,8 +1,4 @@
-# Gabriel Inácio🖖
-### Bem-Vindo ao meu perfil!
-<img align="right" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/gifs/Developer.gif" width="320px">
-<p>Atualmente cursando análise e Desenvolvimento de Sistemas na Fatec de Lins. Viso ser um programador FullStack.</p>
-<p>🧠Skiils: HTML5, CSS3, PHP(básico), JavaScript & C.</p>
-
-<a href="https://www.linkedin.com/in/gabriel-da-silva-in%C3%A1cio-a3ba881a8/">Linkedin</a>
-
+# Hi, welcome🖖
+Meu nome é <b>Gabriel</b>, tenho 18 anos e sou brasileiro. Sou apaixonado por tecnologia e pretendo aprender cada vez mais sobre essa profissão.
+Em fevereiro de 2020 comecei meu tecnólogo em Análise e Desenvolvimento de Sistemas e depois de um ano, em janeiro de 2021, comecei o estágio na empressa sonnitech.
+Nos meus repositórios vocês verão alguns de meus experimentos, exercícios, tentativas e projetos que estou desenvolvendo ou aprendendo e que vão somar a minha carreira.
