@@ -18,9 +18,7 @@
   <img align="center" alt="Inacio-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Inacio-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg">    
   
-  <!-- IMAGE -->
-  <img align="right" alt="Inacio-pic" height="110" style="border: none; border-radius:100px;" src="https://i.pinimg.com/564x/da/82/d5/da82d597ca448661cdc65c63c716a665.jpg">
-
+  
 
   <img align="center" alt="Inacio-Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
   <img align="center" alt="Inacio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
