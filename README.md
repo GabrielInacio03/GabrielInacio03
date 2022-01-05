@@ -28,17 +28,14 @@
   <img align="center" alt="Inacio-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
 
 
-
-  
-
   <hr>
 
   <div>
-  <a height="180em" href="https://www.instagram.com/gabrielinacio03/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a align="left" href="https://www.instagram.com/gabrielinacio03/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 
-  <a height="180em" href = "mailto:inaciogs03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a align="center" href = "mailto:inaciogs03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  <a height="180em" href="https://www.linkedin.com/in/gabriel-da-silva-in%C3%A1cio-a3ba881a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+  <a align="right" href="https://www.linkedin.com/in/gabriel-da-silva-in%C3%A1cio-a3ba881a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
 
 </div>
