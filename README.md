@@ -32,7 +32,7 @@
 </div>
   
   
-<div style="display: inline_block">  
+<div style="display: flex; align-items: center;">  
   <a width="150" href="https://www.instagram.com/gabrielinacio03/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 
   <a width="150" href = "mailto:inaciogs03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
