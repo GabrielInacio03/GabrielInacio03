@@ -10,7 +10,7 @@
   <img align="center" alt="Inacio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Inacio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Inacio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Inacio-pic" height="150" style="border-radius:50px;" src="https://scontent.faru5-1.fna.fbcdn.net/v/t39.30808-6/293046317_764176728332717_8759179373526268941_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEGW79EFFin_7aM7hx112JwMmTz1Cmt4wIyZPPUKa3jAtaidjkjjch9HrXUctjBsmXqkRTuEHIo9kP9hcS4e8fj&_nc_ohc=k5BoIi_wVhIAX8oFl9u&_nc_ht=scontent.faru5-1.fna&oh=00_AfCdQn6CdvU3MzxBpoSYoSqvPFhRfC-umcqEYqn8SY-10g&oe=63C4FA64">
+  <img align="right" alt="Inacio-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/59851555?s=400&u=1fe0e96ef897c6407ca34d4d8a9eaef3326edc1e&v=4">
 </div>
   
   ##
