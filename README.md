@@ -1,4 +1,5 @@
 ## Bem-Vindo, sou o Gabriel Inácio, Analista e Desenvolvedor de Sistemas!
+
 ##### Meu foco é desenvolver aplicações utilizando a plataformar dotnet, especificamente com a linguagem c#. Sistemas e aplicações como Web, Mobile, Desktop, APIs e até jogos, com foco principalmente em Web e APIs. Além disso, utilizo, para a o frontend, ferramentas javascript como o Vuejs.
 ##### Tenho leves conhecimento em outras plataformas e linguagens, que por mais que não sejam meu foco, tenho alguma experiência e conhecimento, como exemplo: PHP, Laravel e Java.
 <div align="center">
@@ -20,3 +21,5 @@
   <a href="https://www.linkedin.com/in/gabriel-da-silva-in%C3%A1cio-a3ba881a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+![Snake animation](https://github.com/GabrielInacio03/GabrielInacio03/blob/output/github-contribution-grid-snake.svg)
+
