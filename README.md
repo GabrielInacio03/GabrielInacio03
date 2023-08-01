@@ -21,5 +21,4 @@
   <a href="https://www.linkedin.com/in/gabriel-da-silva-in%C3%A1cio-a3ba881a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-![Snake animation](https://github.com/GabrielInacio03/GabrielInacio03/blob/output/github-contribution-grid-snake.svg)
 
