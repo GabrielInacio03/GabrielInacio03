@@ -1,12 +1,14 @@
 ## Bem-Vindo, sou o Gabriel Inácio, Analista e Desenvolvedor de Sistemas!
 
-##### Analista de Sistemas | Desenvolvedor | Programador, com mais de 2 anos de experiencia em desenvolvimento com .Net C# e banco de dados SQL Server, Mysql e MongoDB, experiencia em desenvolvimento na plataforma Java (Java EE, Spring Boot e Android) e experiencia em desenvolvimento web com ASP .NET MVC e Laravel PHP.
+#### Analista de Sistemas | Desenvolvedor | Programador, com 3 anos de experiência, focado em backend. Vivência em vários tipos de sistemas como bots(para whatsapp e web), ferramentas omni-channel, sistemas de laboratório e geográficos.
 
-##### Desenvolvimento de software: C# (.NET) e JAVA.
+##### Backend: .NET | C# | WebForms | Windows Forms | WebAPI | Java | Java EE | RabbitMQ | MySQL | MongoDB | Microsservices | RestFul API | Entity Framework | SignalIR | SQL Server | PostgreSQL | Docker
 
-##### Desenvolvimento web: ASP .NET (MVC), HTML, CSS, Javascript, JQuery, Laravel PHP.
+##### Frontend: HTML | CSS | Javascript | Vuejs | Primefaces | Bootstrap
 
-##### Especializações: Alta capacidade de aprendizado, autodidata, sempre por dentro das novas tecnologias.
+##### Infra: AWS
+
+##### SO: Linux e Windows
 <div align="center">
   <a href="https://github.com/GabrielInacio03">
 </div>
