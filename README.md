@@ -1,6 +1,8 @@
 ## Gabriel Inácio
 
-#### Analista de Sistemas | Desenvolvedor | Programador, com mais 3 anos de experiência, focado em backend. Vivência em vários tipos de sistemas como bots(para whatsapp e web), ferramentas omni-channel, sistemas de laboratório e geográficos.
+#### Desenvolvedor de software com aproximadamente 5 anos de experiência em desenvolvimento, integração e sustentação de
+aplicações corporativas. Atuação em backend com C#/.NET e Java/Java EE, construção de APIs REST e integração entre sistemas.
+Experiência complementar com Vue.js, bancos relacionais e NoSQL, mensageria e ambientes com Docker, Jenkins, Linux e GCP.
 
 ##### Backend: .NET | C# | WebForms | Windows Forms | WebAPI | Java | Java EE | RabbitMQ | MySQL | MongoDB | Microsservices | RestFul API | Entity Framework | SignalIR | SQL Server | PostgreSQL | Docker
 
